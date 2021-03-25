@@ -6,11 +6,11 @@
                 "prev": "Actualización 0",
                 "update":
                 [
-                        {
-                        "action": "dl",
-                        "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/Re%3AZero%20INFINITY/Ram%20(Detective).zip",
-                        "hash": "8e30e9c3282f314466a7a145f4dccc9279cb7e1e"
-                        }
+                    {
+                    "action": "dl",
+                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Chars%2001.7z",
+                    "hash": "c330f823026c69ef1eba856a6f955479415881f6"
+                    }
                 ]
           }
   ]

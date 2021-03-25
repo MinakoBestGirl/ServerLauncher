@@ -1,16 +1,20 @@
 {
+  "launcher": { "version": "0.0.1"},
   "versions":
   [
           {
                 "version": "Actualización 2 de Prueba",
-                "prev": "Actualización 0",
                 "full":
                 [
-                    {
+                  {
                     "action": "dl",
-                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Chars%2001.7z",
+                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/AA.7z",
                     "hash": "c330f823026c69ef1eba856a6f955479415881f6"
-                    }
+                  },
+                  {
+                   "action": "notice",
+                    "msg": "Espero que esto funcione de una vez.",
+                    "versionCheck": "1"
                 ]
           }
   ]

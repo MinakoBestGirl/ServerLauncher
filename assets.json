@@ -1,20 +1,15 @@
 {
-  "launcher": { "version": "0.0.1"},
+  "launcher": { "version": "1.3.0"},
   "versions":
   [
           {
-                "version": "Actualización 2 de Prueba",
+                "version": "Actualización 1 (Kenji, Minato, Rem, Emilia, Hanako)",
                 "full":
                 [
                   {
                     "action": "dl",
-                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/AA.7z",
-                    "hash": "29d67d53276e97192e224cdc6fc331d294f6fe7b"
-                  },
-                  {
-                   "action": "notice",
-                    "msg": "Espero que esto funcione de una vez.",
-                    "versionCheck": "1"
+                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Chars%2001.7z",
+                    "hash": "c330f823026c69ef1eba856a6f955479415881f6"
                   }
                 ]
           }

@@ -2,8 +2,10 @@
   "versions":
   [
           {
-                "version": "Actualizacion 2 de Prueba",
-                "update": [
+                "version": "Actualización 2 de Prueba",
+                "prev": "Actualización 0"
+                "update":
+                [
                         {
                         "action": "dl",
                         "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/Re%3AZero%20INFINITY/Ram%20(Detective).zip",

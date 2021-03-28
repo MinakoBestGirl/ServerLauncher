@@ -3,6 +3,18 @@
   "versions":
   [
           {
+                "version": "Hotfix: Char icons faltantes y algunos arreglos",
+	        "prev": "Act. 2: WEBP FOR THE WIN",
+            	"update":
+                [
+                  {
+                    "action": "dl",
+                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Hotfix.zip",
+                    "hash": "0e2f6ef8c93450cc8ca2443a23836940ba67ab69"
+                  }
+               ]
+          },
+          {
                 "version": "Act. 2: WEBP FOR THE WIN",
 	        "prev": "Act. 1 (Kenji, Minato, Rem, Emilia, Hanako)",
             	"update":

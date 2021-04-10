@@ -3,7 +3,19 @@
   "versions":
   [
           {
-                "version": "Hotfix: Char icons faltantes y algunos arreglos",
+                "version": "Act. 3: TOUHOU GIRLS (y fixes)",
+	        "prev": "Hotfix: Char icons faltantes y algunos arreglos",
+            	"update":
+                [
+                  {
+                    "action": "dl",
+                    "url": "https://pipe.miroware.io/604a7c71a333fb12a3ac74a3/AO/Parche%203.zip",
+                    "hash": "e40785db00f2caf663ee389bf9b135c7e967c04c"
+                  }
+               ]
+          },
+	  {
+		"version": "Hotfix: Char icons faltantes y algunos arreglos",
 	        "prev": "Act. 2: WEBP FOR THE WIN",
             	"update":
                 [
